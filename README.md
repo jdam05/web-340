@@ -1,2 +1,4 @@
-# web-340
-Repository for Bellevue University Web Development class WEB340
+# WEB 340 Node.js
+## Contributors
+* Richard Krasso
+* Jamal Damir
