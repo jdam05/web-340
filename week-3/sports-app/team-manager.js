@@ -1,3 +1,16 @@
+/**
+ * Title: team-manager.js
+ * Date: September 10, 2022
+ * Author: Jamal Eddine Damir
+ * Description: This file contains functions to assign team objects to an array
+ * 				and use the array data and moment module to get championship game teams
+ * 				and date.
+ * Sources:
+ * Source code from class GitHub Repository
+ * W3Schools.com
+ * Instructor provided assignment specific instructions
+ */
+
 // Importing team module and assigning it to team variable
 const team = require("./Team");
 // Importing moment
